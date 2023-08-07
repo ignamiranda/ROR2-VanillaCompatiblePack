@@ -1,7 +1,7 @@
 {
     "name": "VanillaCompatiblePack",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/ignamiranda/VanillaCompatiblePack",
+    "website_url": "https://github.com/ignamiranda/ROR2-VanillaCompatiblePack",
     "description": "A Risk of Rain 2 modpack that lets you play with vanilla players",
     "dependencies": [
         "RiskofThunder-BepInEx_GUI-3.0.2",
